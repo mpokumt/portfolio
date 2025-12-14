@@ -74,7 +74,7 @@ export const Navbar = ({
                         )}
                     </Button>
 
-                    <a href="assets/files/my_resume.pdf" download="Melissa Adu-Poku.pdf">
+                    <a href="/portfolio/my_resume.pdf" download="Melissa Adu-Poku.pdf">
                         <Button
                             size="lg"
                             className={`rounded-2xl transition-all duration-300 px-6 hover:scale-101 cursor-pointer ${
