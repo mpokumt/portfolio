@@ -117,7 +117,7 @@ export const Hero = ({ isDark, handleScrollToSection }: HeroProps) => {
                                     isDark ? "text-gray-200" : "text-gray-700"
                                 }`}
                             >
-                                A frontend-leaning fullstack engineer
+                                A Fullstack Software Engineer
                             </div>
 
                             <p
@@ -147,7 +147,7 @@ export const Hero = ({ isDark, handleScrollToSection }: HeroProps) => {
 
                                 <motion.div whileHover={{ scale: 1.01 }} whileTap={{ scale: 0.98 }}>
                                     <a
-                                        href="assets/files/my_resume.pdf"
+                                        href="/portfolio/my_resume.pdf"
                                         download="Melissa Adu-Poku.pdf"
                                     >
                                         <Button
